@@ -1,4 +1,4 @@
-package leetcodepractice.easy;
+package leetcodepractice.easy.two_sum;
 /*
  * @lc app=leetcode id=1 lang=java
  *

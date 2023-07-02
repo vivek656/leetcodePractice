@@ -1,4 +1,4 @@
-package leetcodepractice.hard;
+package leetcodepractice.hard.ipo_502;
 
 import java.util.PriorityQueue;
 

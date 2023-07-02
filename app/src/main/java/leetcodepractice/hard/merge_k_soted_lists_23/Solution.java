@@ -64,13 +64,13 @@ package leetcodepractice.hard.merge_k_soted_lists_23;
  */
 
 // @lc code=start
-// class ListNode {
-//      int val;
-//      ListNode next;
-//      ListNode() {}
-//      ListNode(int val) { this.val = val; }
-//      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-//  }
+class ListNode {
+     int val;
+     ListNode next;
+     ListNode() {}
+     ListNode(int val) { this.val = val; }
+     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ }
  
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {

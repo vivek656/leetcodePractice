@@ -1,4 +1,4 @@
-package leetcodepractice.easy;
+package leetcodepractice.easy.flood_fill_733;
 /*
  * @lc app=leetcode id=733 lang=java
  *

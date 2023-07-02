@@ -1,4 +1,4 @@
-package leetcodepractice.easy;
+package leetcodepractice.easy.is_subsequence_392;
 /*
  * @lc app=leetcode id=392 lang=java
  *
